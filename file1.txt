@@ -2,3 +2,19 @@ this is a testing file
 
 i am learning how to use git now!!
 
+git:
+
+1. if any new are added (as new files) or modified, then try :(1) git add filename
+or want to add all files  try : (2)  git all .
+
+2. if want to use vim to modify files  try: (3) vim filename
+
+3. after adding files through command line, do the commitment (4) git commit -m filename
+
+4. then, push your files to github (5) git push
+
+5. enter your username and password 
+
+6. if you want to see the status (know which file is added or not ) try: (6) git status
+
+7. ls, cd is help
